@@ -4,6 +4,8 @@ description: A popular minimal server framework for Python
 tags:
   - python
   - flask
+  - IA
+  - CV2
 ---
 
 # Python Flask Example
@@ -20,4 +22,7 @@ This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a
 ## 💁‍♀️ How to use
 - Install Python Enviroment `pip -m venv venv`
 - Install Python requirements `pip install -r requirements.txt`
-- Start the server for development `python3 app.py`
+- Start the server for development `flask --app main run`
+
+## Header base
+- route it's `/countchips?count_type={type the colour what u want [WHITE OR BLACK]`
