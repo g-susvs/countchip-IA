@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Countchip-IA'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C079F541C284E10A922489E77AC9C3E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D3A2AF4EFCF4855807E3D3D42408282 }}
