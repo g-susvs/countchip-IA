@@ -1,9 +1,11 @@
 ---
 title: COUNTCHIP-SERVER
-description: A popular minimal server framework for Python
+description: Un contador de fichas realizado con opencv y Flask
 tags:
   - python
   - flask
+  - cors
+  - opencv
 ---
 
 # Python Flask Example
